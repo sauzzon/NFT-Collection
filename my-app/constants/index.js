@@ -1,5 +1,5 @@
 export const NFT_CONTRACT_ADDRESS =
-  "0x443385AF0287201949bEb42Ae088fF6a04c4b797";
+  "0x7cEAb9Bb035a1b97317eAf8ddc3c5FA255a13336";
 const abii = {
   _format: "hh-sol-artifact-1",
   contractName: "CryptoDevs",
